@@ -42,6 +42,7 @@ Let us know that you would like to be a maintainer in the Slack channel *#algori
 # Contributions
 
 The success of our vision to bring knowledge offline** depends on you. Even a small contribution helps. All forms of contribution are highly welcomed and valued. 
+you would love this
 
 When you contribute, your name with a link (if available) is added to our [contributors list]().
 
