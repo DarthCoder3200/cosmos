@@ -47,5 +47,5 @@ When you contribute, your name with a link (if available) is added to our [contr
 
 # License
 
-We believe in freedom and improvement. [GNU General Public License v3.0](https://github.com/AdiChat/cosmos/blob/master/LICENSE)
+We believe in *freedom* and improvement. [GNU General Public License v3.0](https://github.com/AdiChat/cosmos/blob/master/LICENSE)
 
